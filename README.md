@@ -21,5 +21,5 @@ Overall, this project reflects the ability to build a well-structured, feature-r
  Check detection
 
 # Tech Stack
-Python 3
-Pygame
+* Python 3
+* Pygame
